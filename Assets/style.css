@@ -1,7 +1,3 @@
-.row {
-    margin: 15px;
-}
-
 body {
     background-color: lightgray;
 }
@@ -15,12 +11,16 @@ p {
 }
 
 img {
-    margin: 5px;
+    margin-top: 15px;
     border: darkgray;
     border-style: inset;
     border-width: 10px;
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
+}
+
+.row {
+    margin: 15px;
 }
 
 .card {
