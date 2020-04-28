@@ -6,6 +6,10 @@ body {
     background-color: lightgray;
 }
 
+section {
+    background-color: white;
+}
+
 p {
     max-width: 75ch;
 }
@@ -15,6 +19,11 @@ img {
     border: darkgray;
     border-style: inset;
     border-width: 10px;
-    width: 200px;
-    height: 200px;
+    width: 220px;
+    height: 220px;
+}
+
+.card {
+    margin-top: 20px;
+    width: 50%;
 }
