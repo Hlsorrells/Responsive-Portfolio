@@ -28,3 +28,10 @@ img {
     margin-top: 20px;
     width: 50%;
 }
+
+.img-fluid {
+    background: url(./Images/MuddyGapLookout.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
