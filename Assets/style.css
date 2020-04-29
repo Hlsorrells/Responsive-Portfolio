@@ -11,12 +11,13 @@ p {
 }
 
 img {
-    margin-top: 15px;
+    margin: 10px;
     border: darkgray;
     border-style: inset;
     border-width: 10px;
-    width: 200px;
-    height: 200px;
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
 }
 
 .row {
